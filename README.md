@@ -8,4 +8,4 @@
 gribbler25/gribbler25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
--This seems important: https://semver.org/ Major.minor.patch  X.Y.Z 
+-This seems important: https://semver.org/ major.minor.patch  X.Y.Z 
