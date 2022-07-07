@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gribbler25, a University of Wisconsin Coding Bootcamp student.
 - 👀 I’m interested in ...Javascript and learning more about backend frameworks.  I like working with Objects.
-- 🌱 I’m currently learning ...HTML/CSS/Javascript/APIs and whatever else i can wrap my head around.
+- 🌱 I’m currently learning ...HTML/CSS frameworks/Javascript/JS libraries/APIs and whatever else i can wrap my head around.
 - 💞️ I’m looking to collaborate on ...stay tuned, not sure yet!
 - 📫 How to reach me ...gribbler25@yahoo.com
 
