@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gribbler25, a University of Wisconsin Coding Bootcamp student.
-- 👀 I’m interested in ...Javascript and learning more about backend frameworks.  I like working with Objects and Data.
-- 🌱 I’m currently learning ...Javascript server-side with Node.js, object-oriented programming, sql, mongoDB...
-- 💞️ I’m looking to collaborate on ...stay tuned, not sure yet!
+- 👋 Hi, I’m @gribbler25, a University of Wisconsin Coding Bootcamp graduate.
+- 👀 I’m interested in ...Learning more about Javascript frameworks for front and back end.  I like working with Objects and Data.
+- 🌱 I’m currently learning ...React, GraphQL
+- 💞️ I’m looking to collaborate on more React projects
 - 📫 How to reach me ...gribbler25@yahoo.com
 
 <!---
