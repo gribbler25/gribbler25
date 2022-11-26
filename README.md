@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...an entry level full stack or back end development role or paid internship
 - 🌱 I’m currently deepening my learning of MongoDB/GraphQL/Apollo and React
 - 💞️ I’m looking to collaborate on more React projects to deepen my understanding and skill
-- 📫 How to reach me ...SRNguyen44@gmail.com
+- 📫 How to reach me SRNguyen44@gmail.com
 
 <!---
 gribbler25/gribbler25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
